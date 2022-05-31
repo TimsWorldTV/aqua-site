@@ -1,0 +1,15 @@
+#navigation a {
+    color: rgb(217, 255, 0);
+    padding: 8px;
+    font-size: 20px;
+}
+#navigation a:hover {
+    color: rgb(0, 255, 242);
+}
+#navigation {
+    text-align: center;
+    background-color: black;
+}
+#body {
+    background-color: black;
+}
